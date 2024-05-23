@@ -2,8 +2,6 @@ import { useEffect, useState } from 'react'
 import FaqItem from "./FaqItem";
 function FaqComp() {
 
-
-
     const faqs = [
         {
             question: "How many bones does a cat have?",
